@@ -1,0 +1,6 @@
+# Generated database and uploaded photos are local data, not source code.
+database/*.sqlite
+database/*.sqlite-journal
+uploads/items/*
+!uploads/items/.gitkeep
+tests/.tmp/
